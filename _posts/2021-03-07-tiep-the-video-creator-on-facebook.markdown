@@ -16,7 +16,7 @@ Tiếp o Video Creator no facebook Crie vídeos naturais apoiando imóveis, apar
 <!--more-->
 
 {% include image.html 
-  url="/imgs/posts/tiep/avatar.jpg" 
+  url="/imgs/posts/news/tiep/avatar.jpg" 
   description="Tiếp o Video Creator no facebook" %}
 
 Tiếp o Video Creator no facebook Vietnam
