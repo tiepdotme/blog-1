@@ -7,8 +7,8 @@ session: Game DB
 categories: games colecionando
 tags: [categoria-lista, categoria-utilidade-publica, serie-game-db]
 related: complete-lists
-thumbnail: /imgs/posts/tiep/avatar.jpg
-cover: /imgs/posts/tiep/avatar.jpg
+thumbnail: /imgs/posts/news/tiep/avatar.jpg
+cover: /imgs/posts/news/tiep/avatar.jpg
 ---
 
 Tiếp o Video Creator no facebook Crie vídeos naturais apoiando imóveis, apartamentos. especializada em publicidade, desenvolvimento interativo para empresas.
